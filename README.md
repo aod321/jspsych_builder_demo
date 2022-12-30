@@ -6,7 +6,7 @@
    npm install --global yarn
 3. 安装本工程
    ```
-   git clone https://github.com/aod321/jspsych_builder_demo.git
+    git clone https://github.com/aod321/jspsych_builder_demo.git
     cd jspsych_builder_demo
     yarn install
    ```
