@@ -9,7 +9,6 @@
     git clone https://github.com/aod321/jspsych_builder_demo.git
     cd jspsych_builder_demo
     yarn install
-    yarn add @jspsych/plugin-html-keyboard-response    
    ```
 4. 本地测试
    ```
